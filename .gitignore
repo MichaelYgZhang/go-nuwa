@@ -2,5 +2,8 @@
 *.iml
 pkg/
 bin/
-src/github.com/
+github.com/
+gopkg.in/
+golang.org/
 *.exe
+.vscode/
