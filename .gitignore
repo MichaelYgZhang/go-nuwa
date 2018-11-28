@@ -1,0 +1,6 @@
+.idea
+*.iml
+pkg/
+bin/
+src/github.com/
+*.exe
