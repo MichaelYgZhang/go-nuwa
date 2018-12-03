@@ -2,11 +2,11 @@
 ##### 背景
 - 学习了golang语言需要在工程中去实践
 - 爬虫项目想要做的很丰富将会是一个很大的项目，如果只想爬爬数据，也可以做的很轻松。计划如下:
-    1. [x] V1.0 简单的获取到数据->解析数据->存储数据->展示数据；采用的技术栈是: Golang, ES, GolangTemplate。问题:1. 爬的比较慢 2. 单节点 
-    2. [x] V2.0 重构V1.0，增加并发，提高爬取效率，完善数据价值
-    3. [x] V3.0 重构V2.0，服务拆分，增加RPC调用，分布式节点
-    4. [x] V4.0 重构V3.0，Docker + Kubernetes 部署，至此分布式爬虫完成
-    5. [x] V5.0 增加数据分析,丰富数据价值，采用 ELK Stack(Elasticsearch, Logstash, Kibana) 
+    1. [x] V1.0 ✅简单的获取到数据->解析数据->存储数据->展示数据；采用的技术栈是: Golang, ES, GolangTemplate。问题:1. 爬的比较慢 2. 单节点 
+    2. [x] V2.0 ❌重构V1.0，增加并发，提高爬取效率，完善数据价值
+    3. [x] V3.0 ❌重构V2.0，服务拆分，增加RPC调用，分布式节点
+    4. [x] V4.0 ❌重构V3.0，Docker + Kubernetes 部署，至此分布式爬虫完成
+    5. [x] V5.0 ❌增加数据分析,丰富数据价值，采用 ELK Stack(Elasticsearch, Logstash, Kibana) 
 - 目标: 掌握Golang, Docker, Kubernetes, ELK Stack 在工程中的关键点
 - V2.0 架构设计如下:
 
