@@ -1,0 +1,9 @@
+.idea
+*.iml
+pkg/
+bin/
+github.com/
+gopkg.in/
+golang.org/
+*.exe
+.vscode/
